@@ -1,0 +1,237 @@
+.row {
+  margin-bottom: 1px;
+  text-align:center;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+  
+}
+			[class*="col-"] {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: #eee;
+  background-color: #8a2be2;
+  border: 1px solid #ddd;
+  border: 1px solid white;
+  color: white;
+  font-weight:700;
+  font-size: 24px;
+  font-family: "Cabin";
+  }
+
+         
+         
+         .content{
+         	margin-right: -15px;
+         	margin-left: -15px;
+         	margin-bottom: 1px;
+         	box-sizing: border-box;
+         }
+         .speaker{
+         	width: 25%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 10px;
+         	padding-left: 10px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	background-color: #1abc9c;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 400px;
+         	
+         	background-image: url("pics/adit.png");
+         	background-repeat: no-repeat;
+         	background-position:center;
+         	background-size: 100%;
+         	
+         }
+         .current{
+         	width: 50%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 10px;
+         	padding-left: 10px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	background-color: #e67e22;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 400px;
+         }
+         .live{
+         	width: 25%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 10px;
+         	padding-left: 10px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	background-color: #2ecc71;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 400px;
+         }
+
+         
+         .session{
+         	margin-right: -15px;
+         	margin-left: -15px;
+         	margin-bottom: 1px;
+         	box-sizing: border-box;
+         }
+         
+         .appdev{
+         	width: 16%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	background-image: url("pics/appd.jpg");
+         	background-size: cover;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         }
+         
+         .webmaker{
+         	width: 16%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         	background-color: #2980b9;
+         	background-image: url("pics/webmaker.png");
+         	background-size: cover;
+         }
+         
+         .appmaker{
+         	width: 16%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         	background-image: url("pics/appmaker.png");
+         	background-size: cover;
+         }
+         
+         .sumo{
+         	width: 16%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         	background-image: url("pics/sm.png");
+         	background-repeat: no-repeat;
+         	background-position:center;
+         	background-size: 100%;
+         }
+         
+         .mdn{
+         	width: 16%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	background-color: #34495e;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         	background-image: url("pics/mdn1.png");
+         	background-size: 100%;
+         }
+         
+         .detail{
+         	width: 20%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding-right: 1px;
+         	padding-left: 1px;
+         	padding-top: 1px;
+         	padding-bottom: 1px;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 200px;
+         }
+         
+         .hdr{
+         	margin-right: -15px;
+         	margin-left: -15px;
+         	margin-bottom: 1px;
+         	box-sizing: border-box;
+         }
+         .logo{
+         	width: 100%;
+         	float: left;
+         	position: relative;
+         	min-height: 1px;
+         	padding: 5px;
+         	background-color: #f39c12;
+         	border: 1px solid #fff;
+         	line-height: 1.42857;
+         	height: 150px;
+         	color: white;
+         	font-weight:700;
+         	font-size: 24px;
+         	font-family: "Cabin";
+         	text-align:center;
+         	background-image:url("pics/mcrraj.jpg");
+         	background-size: contain;
+         	background-repeat: no-repeat;
+         	background-position:left;
+         }
+         
+         .womoz{
+         	width: 100%;
+         	height: 33%;
+         	background-image:url("pics/womoz.png");
+         	background-size: contain;
+         	background-repeat: no-repeat;
+         	background-position: center;
+         }
+         .fsa{
+         	width: 100%;
+         	height: 33%;
+         	background-image:url("pics/fsalogo.png");
+         	background-size: contain;
+         	background-repeat: no-repeat;
+         	background-position: center;
+         }
+         .fb{
+         	width: 100%;
+         	height: 34%;
+         	background-image:url("pics/fblike.png");
+         	background-size: contain;
+         	background-repeat: no-repeat;
+         	background-position: center;
+         }
